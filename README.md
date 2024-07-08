@@ -7,7 +7,7 @@ Creating a responsive landing page for a web development internship project at C
 
 ## Project Overview
 
-Tech Exhaust is a responsive landing page designed to promote a product or service. This project was developed as part of my web development internship at CodeClause Pvt Ltd. The landing page features sections for highlighting key features, displaying customer testimonials, and providing a strong call-to-action to engage visitors.
+Tech Exhaust is a responsive landing page designed to promote a service. This project was developed as part of my web development internship at CodeClause Pvt Ltd. The landing page features sections for highlighting key features, displaying customer testimonials, and providing a strong call-to-action to engage visitors.
 
 Visit Tech Exhaust:  http://codeclausetask1.dcfoods.in
 
